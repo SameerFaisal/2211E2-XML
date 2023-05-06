@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.css" type="text/css"?>
+<!DOCTYPE class PUBLIC "public-id" "file.dtd" [
+]>
+
+
+<class>
+
+<student id="s1">
+<firstName>Ali</firstName>
+<lastName>Haider</lastName>
+<school>&gt; &lt;</school>
+</student>
+<student id="s2">
+<firstName>Sadiq</firstName>
+<lastName>Zaidi</lastName>
+<school></school>
+</student>
+<student id="s3">
+<firstName>Romaan</firstName>
+<lastName>Ali</lastName>
+<school></school>
+</student>
+
+</class>

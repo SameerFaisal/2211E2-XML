@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<friends>
+
+<friend>
+<fNAme>Ali</fNAme>
+<lName>Haider</lName>
+</friend>
+<friend>
+<fNAme>Hammad</fNAme>
+<lName>Ahmed</lName>
+
+</friend>
+<friend>
+<fNAme>Sadiq</fNAme>
+<lName>Khan</lName>
+
+</friend>
+<bestFriend>
+<fNAme>Bilal</fNAme>
+<lName>Ahmed</lName>
+</bestFriend>
+
+</friends>

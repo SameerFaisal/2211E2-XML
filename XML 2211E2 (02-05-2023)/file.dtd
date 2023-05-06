@@ -1,0 +1,7 @@
+<!ELEMENT class (student,student,student)>
+<!ELEMENT student (firstName,lastName,school)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT school (#PCDATA)>
+<!ATTLIST student id ID #REQUIRED>
+<!ENTITY school "Aptech">

@@ -1,0 +1,17 @@
+#s1{
+    color:white;
+    background-color: black;
+    text-align: center;
+    width: 100px;
+}
+#s2{
+    color:white;
+    background-color: blue;
+}
+#s3{
+    color:white;
+    background-color: blueviolet;
+}
+student{
+    display: block;
+}
